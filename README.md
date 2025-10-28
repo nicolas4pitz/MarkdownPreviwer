@@ -2,7 +2,7 @@
 
 A simple markdown previwer
 
-site: nicolas4pitz-markdown-previwer.netlify.app
+[live web page](https://nicolas4pitz-markdown-previwer.netlify.app/)
 
 ## 🚀 Getting Started
 
